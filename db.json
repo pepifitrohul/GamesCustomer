@@ -2,30 +2,28 @@
     "customer": [
         {
             "id" : 1,
-            "username" : "Fitrohul Aditya",
+            "username" : "Fitrohul Aditya Febrianto",
             "address" : "Jl. Pati-Semarang",
             "country" : "Indonesia",
-            "email" : "pepi",
+            "email" : "pepifitrohul@gmail.com",
             "password" : "ameliafatiya123"
         },
         {
             "id" : 2,
-            "username" : "Fitrohul Aditya",
-            "address" : "Jl. Pati-Semarang",
+            "username" : "Boby Hendra Wijaya",
+            "address" : "Jl. Surabaya-Malang",
             "country" : "Indonesia",
-            "email" : "pepi",
-            "password" : "ameliafatiya123"
+            "email" : "bobyhendra@gmail.com",
+            "password" : "kenapabob123"
         },
         {
             "id" : 3,
-            "username" : "Fitrohul Aditya",
-            "address" : "Jl. Pati-Semarang",
+            "username" : "Windy Bagus",
+            "address" : "Jl. Bali-Lombok",
             "country" : "Indonesia",
-            "email" : "pepi",
-            "password" : "ameliafatiya123"
-        }
-        
+            "email" : "windi@gmail.com",
+            "password" : "entahlah123"
+        } 
     ]
-    
 
 }
