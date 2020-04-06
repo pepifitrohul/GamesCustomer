@@ -6,7 +6,84 @@
             "address" : "Jl. Pati-Semarang",
             "country" : "Indonesia",
             "email" : "pepifitrohul@gmail.com",
-            "password" : "ameliafatiya123"
+            "password" : "ameliafatiya123",
+            "wishlist" : [
+                {
+                    "id" : 2,
+                    "name" : "Tomb Raider",
+                    "release_date" : "5-03-2013",
+                    "platform" : [
+                        {
+                            "id" : 5,
+                            "name" : "Linux"
+                        }
+                    ],
+                    "image" : "https://steamcdn-a.akamaihd.net/steam/apps/203160/header.jpg?t=1584650700", 
+                    "price" : 90000,
+                    "description" : "Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivor.",
+                    "developer" : [
+                        {
+                            "id" : 3,
+                            "name" : "Square Enix",
+                            "email" : "Square@Enix.com",
+                            "address" : "Tokyo, Jepang",
+                            "site" : "www.square-enix.com",
+                            "image" : "https://upload.wikimedia.org/wikipedia/commons/a/af/Square_Enix_logo.svg",
+                            "description" : "Square Enix (Bahasa Jepang: スクウェア・エニックス Sukuuea Enikkusu) adalah sebuah produsen permainan video dan manga Jepang. Square Enix sangat dikenal untuk seri permainan role-playing gamenya, termasuk seri Final Fantasy dan seri Dragon Quest (awalnya dikenal dengan Dragon Warrior di Amerika Utara)"
+                        }
+                    ],
+                    "publisher" : [
+                        {
+                            "id" : 2,
+                            "name" : "Square Enix",
+                            "email" : "Square@Enix.com",
+                            "image" : "https://upload.wikimedia.org/wikipedia/commons/a/af/Square_Enix_logo.svg",
+                            "address" : "Tokyo, Jepang" 
+                        }
+                    ]
+                   
+                },
+                {
+                    "id" : 5,
+                    "name" : "BanG Dream! Girls Band Party!",
+                    "release_date" : "16 Maret 2017",
+                    "platform" : [
+                        {
+                            "id" : 1,
+                            "name" : "Android"
+                        },
+                        {
+                            "id" : 2,
+                            "name" : "Ios"
+                        }
+                    ],
+                    "image" : "https://lh3.googleusercontent.com/-NaYji2NZrVdalmPfW14eDFAo0e0mtuQ2kcQ409Q79XGTFoW25rS7OSV2BgjaomMXQ=s180-rw", 
+                    "price" : 90000,
+                    "description" : "BanG Dream! is a next generation girls band project that links animated characters with real life performances. It is a media franchise that includes Anime, Games and Live performances. Voice actors from Poppin Party & Roselia formed real bands, and are actively performing live. A third live band, RAISE A SUILEN, was formed and are in the midst of activities as well.",
+                    "developer" : [
+                        {
+                            "id" : 5,
+                            "name" : "Bushiroad",
+                            "email" : " bi_hr_application_corporate@bushiroad.com",
+                            "address" : "Tokyo, Jepang",
+                            "site" : "www.en.bushiroad.com",
+                            "image" : "https://en.cf-vanguard.com/wordpress/wp-content/uploads/Bushiroad_Logo_Horizontal-011.png",
+                            "description" : "Japanese entertainment company that manufactures collectable card and trading card games, mobile application and game publishers, promotional items and many other places, founded in 2007 by Takaaki Kidani and headquartered in Tokyo"
+                        }
+                    ],
+                    "publisher" : [
+                        {
+                            "id" : 5,
+                            "name" : "Bushiroad",
+                            "email" : " bi_hr_application_corporate@bushiroad.com",
+                            "image" : "https://en.cf-vanguard.com/wordpress/wp-content/uploads/Bushiroad_Logo_Horizontal-011.png",
+                            "address" : "Tokyo, Jepang"
+                        }
+                    ]
+                   
+                }
+
+            ]
         },
         {
             "id" : 2,
